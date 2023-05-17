@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Front-End Developer
 -------------------
 
-I enjoy writing client-side code because it provides me with satisfaction and a sense of accomplishment. I try to improve my motor skills by playing the guitar, as well as my ability to work as a team player by volunteering with a teaching team.
+A skilled and motivated Frontend Web Developer with a passion for creating engaging and user-friendly web applications. Proficient in HTML, CSS, JavaScript, Bootstrap, and TailwindCSS. Excellent problem-solving abilities and a strong attention to detail. Committed to delivering high-quality code and exceeding client expectations.
 
 * 🌍  I'm based in Lagos, Nigeria
 * 🖥️  See my portfolio at [Mishael Enyi || Front-End Feveloper](http://mishaelenyi.netlify.app)
