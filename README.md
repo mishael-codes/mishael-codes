@@ -31,8 +31,4 @@ I enjoy writing client-side code because it provides me with satisfaction and a 
 
 ### Badges
 
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/mishael-codes"><img src="https://github-readme-stats.vercel.app/api?username=mishael-codes&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&show_icons=true" alt="mishael-codes's GitHub stats" /></a>
-
 <a href="https://github.com/mishael-codes" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mishael-codes&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
