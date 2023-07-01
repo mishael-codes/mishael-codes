@@ -41,6 +41,6 @@ I enjoy writing client-side code because it provides me with satisfaction and a 
 
 <div width="100%" align="center"><a href="https://github.com/mishael-codes/The-Min-Game-Hub" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishael-codes&repo=The-Min-Game-Hub&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a><a href="https://github.com/mishael-codes/time-tracking-dashboard-main" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishael-codes&repo=time-tracking-dashboard-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
 
-<br /><br /><br /><br /><br />
+<br /><br /><br />
 
 <div width="100%" align="center"><a href="https://github.com/mishael-codes/sunnyside-agency-landing-page-main" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=mishael-codes&repo=sunnyside-agency-landing-page-main&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=0f172a&hide_border=true&locale=en" /></a></div>
