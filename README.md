@@ -9,7 +9,7 @@ Front End Developer
 * ✉️  You can contact me at [enyimishael22@gmail.com](mailto:enyimishael22@gmail.com)
 * 🚀  I'm currently working on [Cuttr](http://cuttr.vercel.app)
 * 🧠  I'm learning TypeScript
-* 🤝  I'm open to collaborating on I'm open to collaborating on bringing design ideas to life through code
+* 🤝  I'm open to collaborating on bringing design ideas to life through code
 
 ### Skills
 
